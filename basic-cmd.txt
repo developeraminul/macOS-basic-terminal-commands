@@ -1,0 +1,33 @@
+pwd ===> print working directory
+
+ls  ===> list items
+
+clear ===> To clean sceen
+
+cd ===> change directory
+
+cd / ====> Go to the root directory
+
+cd ~ ===> /Users/aminul12islam
+
+touch index.html ==> To create a new index.html
+
+mkdir foldername ==> To create a new folder in the current path
+
+rm fileName ==> Remove fileName permenently
+
+rmdir folderName ==> Remove folder ==> only works for empty folder
+
+man rmdir ==> Manual of rmdir
+
+rm -r paths ==> Will the paths folder though its have files
+
+cp source target ===> Copy from source to target
+
+./ ==> Indicating current directory.
+   As an example cp web-dev/index.html ./ => will copy web-dev/index.html file 
+   to current directory.
+
+cp -r source target ==> Copy full folder. Here -r means recursive.
+
+mv source target ==> Move files/folder from source to target. 
